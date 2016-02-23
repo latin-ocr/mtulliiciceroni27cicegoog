@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni27cicegoog_0226.png"; bbox 0 0 1892 3409; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 144 202 412 1416">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 144 202 412 1416">
+     <span class='ocr_line' id='line_1_1' title="bbox 144 202 412 1416; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 144 202 412 1416; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 636 207 1357 349">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 636 207 1357 349">
+     <span class='ocr_line' id='line_1_2' title="bbox 649 207 1357 261; baseline 0.059 -44"><span class='ocrx_word' id='word_1_2' title='bbox 649 207 855 245; x_wconf 73' lang='lat'><strong>-.......‚,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 874 207 962 233; x_wconf 70' lang='grc' dir='ltr'><strong>ω.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 975 207 1178 261; x_wconf 84' lang='lat' dir='ltr'>umque</span> <span class='ocrx_word' id='word_1_5' title='bbox 1209 207 1357 259; x_wconf 84' lang='lat' dir='ltr'><strong>nomi</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 636 248 1357 349; baseline 0.064 -47"><span class='ocrx_word' id='word_1_6' title='bbox 636 248 849 324; x_wconf 84' lang='lat' dir='ltr'>pientia</span> <span class='ocrx_word' id='word_1_7' title='bbox 879 277 974 319; x_wconf 92' lang='lat' dir='ltr'><strong>aut</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1003 271 1202 346; x_wconf 89' lang='lat' dir='ltr'>opibus</span> <span class='ocrx_word' id='word_1_9' title='bbox 1233 301 1357 349; x_wconf 76' lang='lat' dir='ltr'><strong>exc&lt;</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

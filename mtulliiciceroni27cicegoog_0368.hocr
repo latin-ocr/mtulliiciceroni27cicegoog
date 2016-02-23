@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni27cicegoog_0368.png"; bbox 0 0 1892 3409; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 145 203 483 1404">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 145 203 483 1404">
+     <span class='ocr_line' id='line_1_1' title="bbox 145 203 483 1404; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 145 203 483 1404; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 684 1017 1463 1299">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 684 1017 1463 1299">
+     <span class='ocr_line' id='line_1_2' title="bbox 712 1017 1463 1127; baseline 0.032 -52"><span class='ocrx_word' id='word_1_2' title='bbox 712 1017 982 1099; x_wconf 68' lang='lat' dir='ltr'><strong>cipien&#39;dis</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1013 1044 1160 1114; x_wconf 57' lang='lat' dir='ltr'>&#39;el-an</span> <span class='ocrx_word' id='word_1_4' title='bbox 1192 1044 1463 1127; x_wconf 60' lang='lat' dir='ltr'><strong>fiffidfffl</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 684 1191 1463 1299; baseline 0.009 -18"><span class='ocrx_word' id='word_1_5' title='bbox 684 1191 948 1281; x_wconf 34' lang='lat' dir='ltr'><strong>‘hbeat&#39;</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 973 1204 1463 1299; x_wconf 60' lang='lat' dir='ltr'><strong>“fflfllgiebat-&#39;adsp</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
